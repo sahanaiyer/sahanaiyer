@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sahanaiyer
-- 👀 I’m interested in cognitive science, dance, and music!
-- 🌱 I’m currently learning psychology, calculus, and data structures!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in machine learning, cognitive science, and semiconductors!
+
 
 <!---
 sahanaiyer/sahanaiyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
